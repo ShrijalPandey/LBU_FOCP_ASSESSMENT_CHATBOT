@@ -1,0 +1,14 @@
+You: Shree
+Wisey: Hello Shree. Nice to meet you. How can I assist you today? Feel free to ask me any questions about the campus. If you don't find the answer you're looking for, you can reach out to us directly at our campus number: 014513646.
+You: do you know any joke
+Wisey: Can you please rephrase the question?
+You: joke
+Wisey: Why did the student eat his homework? Because the teacher said it was a piece of cake!
+You: what are class timings?
+Wisey: The college timing is from 7 AM to 11 AM for morning shift and 12 PM to 3 PM for evening shift.
+You: help
+Wisey: Feel free to ask any campus-related question!
+You: how have you been
+Wisey: Can you please rephrase the question?
+You: hii
+Wisey: Let me think about that.

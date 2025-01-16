@@ -1,0 +1,10 @@
+You: Shrijal
+Wisey: Hello Shrijal. Nice to meet you. How can I assist you today? Feel free to ask me any questions about the campus. If you don't find the answer you're looking for, you can reach out to us directly at our campus number: 014513646.
+You: how are you
+Wisey: Let me think about that.
+You: Can you please tell me about the upcoming events
+Wisey: You can find upcoming campus events on the college website.
+You: Is parking available?
+Wisey: Parking is free for students.
+You: Bye
+Wisey: Goodbye, Shrijal! Have a great day!

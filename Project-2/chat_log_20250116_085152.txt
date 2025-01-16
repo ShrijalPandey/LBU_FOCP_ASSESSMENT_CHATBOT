@@ -1,0 +1,18 @@
+You: Pandey
+Wisey: Hello Pandey. Nice to meet you. How can I assist you today? Feel free to ask me any questions about the campus. If you don't find the answer you're looking for, you can reach out to us directly at our campus number: 014513646.
+You: help
+Wisey: Feel free to ask any campus-related question!
+You: Where can i watch my grades?
+Wisey: You can check your grades on the student portal on the college website.
+You: Is wifi available?
+Wisey: Campus Wi-Fi is available in all buildings.
+You: sure?
+Wisey: Let me think about that.
+You: quote
+Wisey: You must be the change, you wish to see in the world.
+You: who are you
+Wisey: I'm Wisey, your friendly virtual assistant!
+You: thank you
+Wisey: Can you please rephrase the question?
+You: bye
+Wisey: Goodbye, Pandey! Have a great day!
